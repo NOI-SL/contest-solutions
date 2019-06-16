@@ -1,5 +1,5 @@
 # A Mouse in a Maze
-Help the mouse to get out of the maze. 
+Help the mouse to get out of the maze.  
 Check this problem on [HackerRank](https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/a-mouse-in-a-maze) 
 
 ## Content

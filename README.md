@@ -7,9 +7,6 @@ Solutions & test-data for all the contests organized by National Olympiad in Inf
 ## Problems
 
 1. [Nirmani's Star Patterns](nirmanis-star-patterns)  
-    - Problem Setter: [@pasinducw](https://github.com/pasinducw)  
-    - Solution 1 (C++): [@pasinducw](https://github.com/pasinducw)
-    - Solution 2 (C++): [@nmasnadithya](https://github.com/nmasnadithya)
 2. [King Rawana’s Palace](king-rawanas-palace)
 3. [Candy Combinations](candy-combinations)
 4. [Game of Life Simulation](game-of-life-simulation)
