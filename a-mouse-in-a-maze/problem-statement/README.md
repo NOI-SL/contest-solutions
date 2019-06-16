@@ -20,7 +20,7 @@ Next **R** lines have **C** characters each representing the **RxC gird**. Each 
 
 ## Constraints
 
-- **1 $\leq$ R, C $\leq$ 20** 
+- **1 &le; R, C &le; 20** 
 
 ## Output Format
 
