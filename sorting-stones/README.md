@@ -1,6 +1,6 @@
 # Sorting Stones
 Can you help Kasun to sort his stones?  
-Check this problem on [HackerRank](https://www.hackerrank.com/contests/noi-2019-day-1/challenges/) 
+Check this problem on [HackerRank](https://www.hackerrank.com/contests/noi-2019-day-1/challenges/sorting-stones) 
 
 ## Content
 - [Input](input)
