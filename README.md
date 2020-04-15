@@ -1,10 +1,10 @@
-# National Olympiad in Informatics Sri Lanka - Contest Solutions
+# National Olympiad in Informatics Sri Lanka - 2020 Monthly Contest - March
 
-Solutions & test-data for all the contests organized by National Olympiad in Informatics Sri Lanka will be hosted here. 
+Solutions & problem statements for National Olympiad in Informatics 2020 - Monthly Contest - March
 
 ## Languages
 
-Currently, NOI Sri Lanka & IOI accepts solutions written in C, C++, Java & Pascal.  
+Currently, NOI Sri Lanka & IOI accepts solutions written in C, C++, & Java.
   
 All the solutions by the problem setters are written in C++. 
 There's no guarantee that the solutions will be written in other languages. 
