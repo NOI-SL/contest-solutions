@@ -69,11 +69,7 @@ int main()
         for(int i=0;i<n/2;i++)
         {
             if(as[i].v1==bs[i].v1 && as[i].v2==bs[i].v2)c++;
-            
-            //cout<<as[i].v1<<" "<<as[i].v2<<" "<<bs[i].v1<<" "<<bs[i].v2<<"\n";
         }
-        
-        
         
         if(c==n/2)cout<<"Yes\n";
         else cout<<"No\n";
