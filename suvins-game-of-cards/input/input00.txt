@@ -1,0 +1,16 @@
+HCCD
+HDSSD
+S 1 1
+H 2 1
+D 1 2
+C 2 2
+S S 5
+S H 0
+S D 0
+S C 0
+H H 5
+H D 0
+H C 0
+D D 5
+D C 0
+C C 5
