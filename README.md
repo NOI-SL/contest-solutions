@@ -20,7 +20,7 @@ The solutions and test data can be accessed by 2 different formats.
 2. **Github Releases**  
     You can go to the releases page and download the zip files created for each contest.
 
-## Accessing the solutions after 2023
+## Accessing the solutions from 2023
 1. **Repository Branches**  
     You can switch to the 2023 branch .
     In there you can find the directory relevant to each contest.  
