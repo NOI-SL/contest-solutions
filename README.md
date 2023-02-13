@@ -10,7 +10,7 @@ All the solutions by the problem setters are written in C++.
 There's no guarantee that the solutions will be written in other languages. 
 But if you are willing to contribute, write the solutions and submit a PR.
 
-## Accessing the solutions
+## Accessing the solutions before 2023
 
 The solutions and test data can be accessed by 2 different formats.
 1. **Repository Branches**  
@@ -19,6 +19,12 @@ The solutions and test data can be accessed by 2 different formats.
     For example the branch for 2019 screening test would be ``2019/screening-test``  
 2. **Github Releases**  
     You can go to the releases page and download the zip files created for each contest.
+
+## Accessing the solutions from 2023
+1. **Repository Branches**  
+    You can switch to the 2023 branch .
+    In there you can find the directory relevant to each contest.  
+    For example the directory  for 2023 January practice test would be ``January``  
 
 ## Compiling & Running
 
